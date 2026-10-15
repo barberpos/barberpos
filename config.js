@@ -1,9 +1,9 @@
 window.BARBERPOS_CONFIG = {
  firebaseConfig: {
-  apiKey: "REPLACE_WITH_FIREBASE_WEB_API_KEY",
-  authDomain: "REPLACE_WITH_PROJECT.firebaseapp.com",
-  projectId: "REPLACE_WITH_PROJECT_ID",
-  appId: "REPLACE_WITH_FIREBASE_APP_ID"
+  apiKey: "AIzaSyCKs_erH4cXVH47c9UZ5XJXmvf27_SHsHk",
+  authDomain: "barberpos-56899.firebaseapp.com",
+  projectId: "barberpos-56899",
+  appId: "1:916393524256:web:b0131758ac516a3b7e5045"
  },
- apiBaseUrl: "REPLACE_WITH_CLOUDFLARE_WORKER_URL"
+ apiBaseUrl: "https://barberpos-api.tpgroupfactory.workers.dev"
 };
